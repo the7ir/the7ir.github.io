@@ -1,9 +1,7 @@
 ---
 title: Hack The Box - Soccer
 tags: [HTB, Webapp Exploit, WebSocket Exploit, nmap, Python, Privilege Escalation]
-cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 layout: post
 ---
 
